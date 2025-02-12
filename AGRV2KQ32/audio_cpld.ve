@@ -1,0 +1,19 @@
+clk PIN_1
+sub_clk PIN_18
+
+in_ws PIN_23
+in_ck PIN_22
+in_sd PIN_21
+
+buffer_empty PIN_31
+buffer_full PIN_19
+
+out_mck PIN_12
+out_ws PIN_15
+out_ck PIN_13
+out_sd PIN_14
+
+spi_ck PIN_28
+spi_mosi PIN_26
+spi_miso PIN_27
+spi_nss PIN_29
