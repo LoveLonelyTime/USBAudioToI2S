@@ -21,3 +21,7 @@ Visit [WCH](https://www.wch.cn/products/CH32V307.html) for more information.
 ### AGRV2KQ32
 
 Visit [AGM](http://www.tcx-micro.com/doc_27047096.html) for more information.
+
+## Schematic
+
+[Schematic](https://oshwhub.com/lovelonelytime/usbtoi2s)
