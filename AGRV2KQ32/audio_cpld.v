@@ -80,7 +80,8 @@ module audio_cpld (
       .inclk(sub_clk),
       .out1 (sub_out1),
       .outd2(sub_outd2),
-      .outd4(sub_outd4)
+      .outd4(sub_outd4),
+      .outd8()
   );
 
   clk_sel main_clk_sel (

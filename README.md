@@ -22,6 +22,10 @@ Visit [WCH](https://www.wch.cn/products/CH32V307.html) for more information.
 
 Visit [AGM](http://www.tcx-micro.com/doc_27047096.html) for more information.
 
+Two oscillators are necessary (24.576MHz and 22.5792MHz), in this case, the internal PLL will be used to generate sample frequency.
+
+If you would like to use your external PLL, please use `\nopll` to replace corresponding files. Otherwise, please ignore `\nopll`.
+
 ## Schematic
 
 [Schematic](https://oshwhub.com/lovelonelytime/usbtoi2s)
